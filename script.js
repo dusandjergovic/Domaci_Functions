@@ -9,9 +9,4 @@ function PDV() {
 
 };
 
-btn.addEventListener('click', PDV)
-// btn.addEventListener('click', function() {
-//     let tax = ((price*20)/100)+price;
-//     alert(`Cena sa PDV-om iznosi ${tax}`);
-
-// })
+btn.addEventListener('click', PDV);
